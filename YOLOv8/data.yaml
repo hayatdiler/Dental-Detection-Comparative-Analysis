@@ -1,0 +1,5 @@
+
+train: C:\Users\DeepLab\Desktop\Grup_15_yolo\yolo_dataset\images\train
+val: C:\Users\DeepLab\Desktop\Grup_15_yolo\yolo_dataset\images\val
+nc: 8
+names: ['Kesici_Daimi', 'Kopek_Daimi', 'Kucuk_Azi_Daimi', 'Buyuk_Azi_Daimi', 'Sut_Kesici', 'Sut_Kopek', 'Sut_Kucuk_Azi', 'Sut_Buyuk_Azi']
